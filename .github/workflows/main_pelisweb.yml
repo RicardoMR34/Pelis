@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PelisWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AE8CBF05FA74E31B4B5824BEF94C6C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5A9416E539C4DE59144157EA2843042 }}
           package: .
